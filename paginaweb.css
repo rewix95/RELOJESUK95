@@ -1,0 +1,47 @@
+banner {
+    position: relative;
+    height: 50%;
+    width: 100%;
+}
+
+.tabla{
+    position: relative;
+    height:400px;
+    width:100%;
+    color: white;
+}
+
+.imagenes1{
+    position: relative;
+    width: 100%;
+    height: 60PX%;
+}
+.imagenes2{
+    position: relative;
+    width: 400px;
+    height: 400px;
+}
+.imagenes3{
+    position: relative;
+    width: 400px;
+    height: 400px;
+}
+div{
+    color: white;
+}
+
+.mapa{
+    position: relative;
+    width: 50%;
+}
+
+.formulario{
+    position: relative;
+    width: 50%;
+    height: 100%;
+}
+
+a{
+    color: red;
+}
+
